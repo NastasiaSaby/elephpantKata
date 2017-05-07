@@ -1,4 +1,4 @@
-Bienvenue dans l'elephpant kata
+<h1>Elephpant Kata</h1>
 
 Vous avez devant vous un squelette de projet en PHP.
 
