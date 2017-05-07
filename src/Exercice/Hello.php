@@ -21,5 +21,4 @@ class Hello implements Speakable
         //Utilisation de la méthode "concatenate" du trait "Concatenation"
         return $this->concatenate("Hello", $name);
     }
-
 }
