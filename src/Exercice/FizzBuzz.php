@@ -4,7 +4,6 @@ namespace Source;
 
 class FizzBuzz
 {
-
     /**
      * FizzBuzz constructor.
      */
