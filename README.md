@@ -17,7 +17,7 @@ Pour lancer les tests : bin/phpunit
 Quand on ajoute une classe, pour lancer l'autoload : bin/composer.phar dump-autoload
 
 <h2>Règles du FizzBuzz</h2>
-Write a program that prints the numbers from 1 to 100. But for multiples of 3 print “Fizz” instead of the number and for the multiples of 5 print “Buzz”. For numbers which are multiples of both 3 and 5 print “FizzBuzz “.
+Ecrire un programme qui retourne les nombres de 1 à 100. Mais pour les multiples de 3, retourner "Fizz" et pour les multiples de 5, retourner "Buzz". Pour les nombres qui sont à la fois multiples de 3 et 5, retourner "FizzBuzz".
 
 Des liens utiles : 
 * [Documentation PHP](https://secure.php.net/docs.php)
