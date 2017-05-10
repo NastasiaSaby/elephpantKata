@@ -31,3 +31,32 @@ Ecrire un programme qui retourne les nombres de 1 à 100. Mais pour les multiple
 
 * [Documentation PHP](https://secure.php.net/docs.php)
 * [Objects calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
+* [Documentation PHPUnit](https://phpunit.de/manual/current/en/index.html)
+
+## Quelques trucs 
+Boucle for :
+
+```
+for ($i = 1; $i <= 10; $i++) {
+    echo $i;
+}
+```
+
+If/else :
+
+```
+if ($a > $b) {
+    echo "a est plus grand que b";
+} elseif ($a == $b) {
+    echo "a est égal à b";
+} else {
+    echo "a est plus petit que b";
+}
+```
+
+Array en PHP :
+
+```
+ $a = ['one' => 1, 'two' => 2, 'three' => 3, 'four' => 4];
+    print_r($a);
+```
